@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Anik Khan
-#### React Front End Developer
-![React Front End Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/p240x240/242150635_320941029833762_6022776335063222957_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHjPMvRDgYJeXAms7gEdh590fEfFetnmvfR8R8V62ea97zx-WMmM__QQpWFxCB1aeYyXx9JD2U73BYU3WZrpPco&_nc_ohc=wneuFBcK_00AX9FKV9V&_nc_ht=scontent.fdac7-1.fna&oh=0fe66ee492f297610421c48a2351e5dc&oe=61A563F4)
+# Hi there 👋, I'm Anik Khan
+### React Front End Developer
+![React Front End Developer]
 
 I'm a Front End Web Developer who is passionate about making error,free websites with 100% client satisfiction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real world problems.I am stratagic goal-oriented,and always work with an end goal in mind.Over the past years I created some website for my learning.i pride myself on doing quality work and maintainexcellent communication.Most of the time i work with #React# but some technolgies i enjoy working with include javaScript as well as wordpress.
 
